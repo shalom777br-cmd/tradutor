@@ -1,0 +1,8 @@
+{
+  "name": "Japanese Portuguese Voice Translator",
+  "description": "Speak in Japanese and get instant spoken Portuguese translations. Ultra-simple, high-contrast, designed specifically for hands-free mobile use.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
